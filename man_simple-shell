@@ -1,4 +1,4 @@
-.TH simple_shell "1.0" "5 May 2022" "simple_shell man page" "simple_shell man page"
+.TH simple_shell "1.0" "5 May 2022" "simple_shell man page"
 .SH NAME
 .B shell
 - a standard command interpreter similar to the GNU Bourne-Again SHell (sh).
