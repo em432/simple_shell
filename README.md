@@ -1,6 +1,6 @@
 Simple Shell Project
 
-[Shell](https://www.pexels.com/photo/two-conch-1184236/)
+![Shell](https://www.pexels.com/photo/two-conch-1184236/)
 #Overview
 ##Write a simple UNIX command interpreter.
 #A Unix Command Line Interpreter Built in C
