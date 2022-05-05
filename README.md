@@ -1,10 +1,10 @@
 # Simple Shell Project
 
-![Shell](https://www.pexels.com/photo/two-conch-1184236/)
+![Shell](shell.jpg)
 # Overview
 ## Write a simple UNIX command interpreter.
 #  Aim
-# A Unix Command Line Interpreter Built in C
+##  A Unix Command Line Interpreter Built in C
 # General 
 1. Who designed and implemented the original Unix operating system?
     Answer:Ken Thompson and Dennis Ritchie created the first version of UNIX on a PDP-7 as a team in 1969.
