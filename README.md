@@ -2,9 +2,9 @@
 
 ![Shell](shell.jpg)
 # Overview
-## Write a simple UNIX command interpreter.
+Write a simple UNIX command interpreter.
 #  Aim
-##  A Unix Command Line Interpreter Built in C
+A Unix Command Line Interpreter Built in C
 # General 
 1. Who designed and implemented the original Unix operating system?
     Answer:Ken Thompson and Dennis Ritchie created the first version of UNIX on a PDP-7 as a team in 1969.
@@ -37,5 +37,3 @@
      Answer: "The wait() system call" suspends execution of the current process untilone of its children terminates
 14. What is EOF / “end-of-file”?
       The EOF operator is used in many programming languages. This operator stands for the end of the file. This means that wherever a compiler or an interpreter encounters this oprator, it will receive an indication that the file it was reading has ended 
-
-
